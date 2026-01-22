@@ -9,9 +9,9 @@
 <a href="https://www.upwork.com/freelancers/~018b23e5bb6885caf7"><img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 <a href="https://www.instagram.com/ajaya_023/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-I specialize in building scalable cloud infrastructure and automating DevOps workflows. I am a DevOps engineer🚀 based in Toronto, specializing in AWS cloud architecture, Infrastructure as Code (IaC), Kubernetes orchestration, and AI/ML infrastructure deployment.
+I select the right fit for the problem, keep systems practical, and avoid unnecessary complexity. I automate what makes sense, build for failure, and treat monitoring and cost control as first‑class requirements. Scaling and HA are valuable, but over‑engineering isn't. I take pride in what I ship and fully own the systems I operate.
 
-🔭 I'm an AWS Certified professional passionate about multi-agent AI systems, cloud infrastructure automation, and sharing knowledge through technical writing and speaking at community events.
+🔭 AWS Certified professional passionate about multi-agent AI systems, cloud infrastructure automation, and sharing knowledge through technical writing and speaking at community events.
 
 ---
 
