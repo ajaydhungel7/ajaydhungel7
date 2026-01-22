@@ -61,8 +61,6 @@ I actively participate in tech communities, sharing knowledge about Cloud Infras
 
 ### 📍 Based in Toronto, Ontario, Canada
 
-💡 *"Building the cloud infrastructure of tomorrow, today."*
-
 ---
 
 ⭐️ From [Cloud & DevOps Engineering!](https://ajaydhungel.blog)
