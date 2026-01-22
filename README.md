@@ -7,12 +7,11 @@
 <a href="https://www.credly.com/users/ajay-dhungel.7261bfe6/badges"><img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
 <a href="https://medium.com/@adhungel2"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://www.upwork.com/freelancers/~018b23e5bb6885caf7"><img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-<a href="https://buymeacoffee.com/ajaydhungel7"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 <a href="https://www.instagram.com/ajaya_023/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-Ajay specializes in building scalable cloud infrastructure and automating DevOps workflows. He is a DevOps engineer🚀 based in Toronto, specializing in AWS cloud architecture, Infrastructure as Code (IaC), Kubernetes orchestration, and AI/ML infrastructure deployment.
+I specialize in building scalable cloud infrastructure and automating DevOps workflows. I am a DevOps engineer🚀 based in Toronto, specializing in AWS cloud architecture, Infrastructure as Code (IaC), Kubernetes orchestration, and AI/ML infrastructure deployment.
 
-🔭 AWS Certified professional passionate about multi-agent AI systems, cloud infrastructure automation, and sharing knowledge through technical writing and speaking at community events.
+🔭 I'm an AWS Certified professional passionate about multi-agent AI systems, cloud infrastructure automation, and sharing knowledge through technical writing and speaking at community events.
 
 ---
 
