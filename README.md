@@ -16,18 +16,21 @@ Ajay specializes in building scalable cloud infrastructure and automating DevOps
 
 ---
 
-### 📝 Latest Medium Posts💻
+### 📝 Latest Technical Articles💻
 
-I regularly publish technical content on Medium about Cloud Infrastructure, DevOps automation, AWS services, and serverless architectures:
+I regularly publish technical content about Cloud Infrastructure, DevOps automation, AWS services, AI/ML systems, and serverless architectures:
 
-- [Streamlining Deployment: Leveraging GitHub Actions to Deploy a Django Application on AWS ECS](https://medium.com/@adhungel2/streamlining-deployment-leveraging-github-actions-to-deploy-a-django-application-on-aws-ecs-8c4a5c5e5e5e)
-- [Amazon ECR: How to avoid pull rate limits on base docker images from Docker Hub](https://medium.com/@adhungel2/amazon-ecr-how-to-avoid-pull-rate-limits-on-base-docker-images-from-docker-hub-8c4a5c5e5e5e)
-- [AWS Step Functions: Creating a 'Busy Waiting' flow to wait for successful lambda executions](https://medium.com/@adhungel2/aws-step-functions-creating-a-busy-waiting-flow-to-wait-for-successful-lambda-executions-8c4a5c5e5e5e)
-- [Getting Started with Serverless Framework: Installing python packages](https://medium.com/@adhungel2/getting-started-with-serverless-framework-installing-python-packages-8c4a5c5e5e5e)
-- [Using Amazon EventBridge with CodeBuild Project to sync cross-account S3 buckets](https://medium.com/@adhungel2/using-amazon-eventbridge-with-codebuild-project-to-sync-cross-account-s3-buckets-8c4a5c5e5e5e)
-- [Configuring AWS CI/CD CodePipeline with Terraform](https://medium.com/@adhungel2/configuring-aws-ci-cd-codepipeline-with-terraform-8c4a5c5e5e5e)
-- [AWS Proton with Terraform and Self Managed Provisioning](https://medium.com/@adhungel2/aws-proton-with-terraform-and-self-managed-provisioning-8c4a5c5e5e5e)
-- [Cost Saving on EC2 instance types: SageMaker Studio (JupyterLab)](https://medium.com/@adhungel2/cost-saving-on-ec2-instance-types-sagemaker-studio-jupyterlab-8c4a5c5e5e5e)
+- [Building Fantasy Football Assistant with Strands Agents Framework](https://medium.com/@adhungel2/building-fantasy-football-assistant-with-strands-agents-framework-c3e4155c2b87)
+- [Toon: Making MCP Server Responses Actually Efficient](https://medium.com/@adhungel2/toon-making-mcp-server-responses-actually-efficient-947a8038af0f)
+- [Streamlining Deployment: Leveraging GitHub Actions to Deploy a Python Application on AWS ECS](https://awstip.com/streamlining-deployment-leveraging-github-actions-to-deploy-a-python-application-on-aws-ecs-187eb524a08d)
+- [Amazon ECR: How to avoid pull rate limits on base docker images from Docker Hub](https://awstip.com/amazon-ecr-how-to-avoid-pull-rate-limits-on-base-docker-images-from-docker-hub-47b35d3f9c3d)
+- [AWS Step Functions: Creating a 'Busy Waiting' flow to wait for successful lambda executions](https://dev.to/aws-builders/aws-step-functions-creating-a-busy-waiting-flow-to-wait-for-successful-lambda-executions-576d)
+- [Leveraging AWS CodePipeline pipeline and Serverless Framework to deploy a Flask API](https://dev.to/aws-builders/leveraging-aws-codepipeline-pipeline-and-serverless-framework-to-deploy-a-flask-api-3jha)
+- [Getting Started with Serverless Framework: Installing python packages](https://medium.com/@adhungel2/getting-started-with-serverless-framework-installing-python-packages-e84b4446c37)
+- [Using Amazon EventBridge with CodeBuild Project to sync cross-account S3 buckets](https://awstip.com/using-amazon-eventbridge-with-codebuild-project-to-sync-cross-account-s3-buckets-43330e6af260)
+- [Configuring AWS CI/CD CodePipeline with Terraform](https://awstip.com/configuring-aws-ci-cd-codepipeline-with-terraform-3046f017dac5)
+- [AWS Proton with Terraform and Self Managed Provisioning](https://awstip.com/proton-with-terraform-and-self-managed-provisioning-fffe1ee94aac)
+- [How to limit changes and upgrades of EC2 instance type in SageMaker Studio (JupyterLab)](https://awstip.com/how-to-limit-changes-and-upgrades-of-ec2-instance-type-in-sagemaker-studio-jupyterlab-353f33dd4e81)
 
 [Read more on Medium →](https://medium.com/@adhungel2)
 
