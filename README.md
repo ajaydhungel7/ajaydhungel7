@@ -4,6 +4,7 @@
 <a href="https://ajaydhungel.blog"><img src="https://img.shields.io/badge/Blog-ajaydhungel.blog-blue?style=for-the-badge&logo=hugo&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/ajaydhungel/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/ajaydgl"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.credly.com/users/ajaydhungel"><img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
 <a href="https://medium.com/@ajaydhungel"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://www.upwork.com/freelancers/~018b23e5bb6885caf7"><img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 <a href="https://buymeacoffee.com/ajaydhungel7"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
@@ -11,25 +12,7 @@
 
 Ajay specializes in building scalable cloud infrastructure and automating DevOps workflows. He is a DevOps engineer🚀 based in Toronto, specializing in AWS cloud architecture, Infrastructure as Code (IaC), Kubernetes orchestration, and AI/ML infrastructure deployment.
 
-🔭 Certified AWS professional with expertise in DevOps, AI/ML, and cloud infrastructure. Passionate about sharing knowledge through technical writing and speaking at community events.
-
----
-
-### 🎓 AWS Professional Certifications
-
-<a href="https://www.credly.com/badges/YOUR_BADGE_ID"><img src="https://img.shields.io/badge/AWS-DevOps_Engineer_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/YOUR_BADGE_ID"><img src="https://img.shields.io/badge/AWS-Machine_Learning_Engineer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/YOUR_BADGE_ID"><img src="https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-
-**Verified AWS Certifications:**
-- ✅ **AWS Certified DevOps Engineer – Professional**
-- ✅ **AWS Certified Machine Learning Engineer – Associate**
-- ✅ **AWS Certified AI Practitioner**
-
-**Currently Pursuing:**
-- 🎯 AWS Certified Solutions Architect – Professional
-- 🎯 AWS Certified Developer – Associate
-- 🎯 AWS Certified SysOps Administrator – Associate
+🔭 AWS Certified professional passionate about multi-agent AI systems, cloud infrastructure automation, and sharing knowledge through technical writing and speaking at community events.
 
 ---
 
@@ -53,8 +36,8 @@ I regularly publish technical content on Medium about Cloud Infrastructure, DevO
 I actively participate in tech communities, sharing knowledge about Cloud Infrastructure, DevOps practices, and AI/ML deployments:
 
 **Conference Speaking:**
-- 🗣️ **AWS Summit Toronto** - Delivered technical talks on cloud infrastructure best practices
-- 🗣️ **AWS User Group Toronto** - Regular speaker and contributor sharing DevOps insights and AWS experiences
+- 🗣️ **AWS Summit Toronto** - Presented on "Multi-agent Collaboration on AWS Bedrock using Specialized Knowledge Bases"
+- 🗣️ **AWS User Group Toronto** - Delivered talk on "Multi-agent Collaboration on AWS Bedrock using Specialized Knowledge Bases"
 
 **Community Contributions:**
 - Technical blog posts on [ajaydhungel.blog](https://ajaydhungel.blog)
