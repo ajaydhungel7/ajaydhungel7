@@ -53,18 +53,7 @@ I actively participate in tech communities, sharing knowledge about Cloud Infras
 
 - ⚽ **Fantasy Premier League** - Passionate about football analytics and FPL strategy
 - 🏎️ **Motorsports** - Formula 1 and MotoGP enthusiast
-- 🎬 **Cinema** - Film lover and movie theater regular
 - 🚴 **Fitness** - Cycling, running, and bike maintenance
-
----
-
-### 📊 GitHub Statistics
-
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajaydhungel7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaydhungel7&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajaydhungel7&theme=radical&hide_border=true&background=0D1117)
 
 ---
 
